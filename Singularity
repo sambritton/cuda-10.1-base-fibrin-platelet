@@ -8,7 +8,7 @@ From: sambritton/cuda-10.1-base
     apt-get update
     DEBIAN_FRONTEND=noninteractive apt-get -y upgrade
     
-    apt-get install -y cmake
-    apt-get install -y vim
-	apt-get install -y git
+    #apt-get install -y cmake
+    #apt-get install -y vim
+	#apt-get install -y git
 	

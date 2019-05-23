@@ -1,6 +1,5 @@
 Bootstrap: docker
-From: sambritton/cuda-10.1-base 
-#From: pbspro/pbspro #build from slurm
+From: sambritton/cuda-10.1-base
 
 %post
 
